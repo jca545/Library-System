@@ -112,6 +112,6 @@ g. Show all Events
 #### Existing Tables
 For the existing Tables, check Report's page 1~3 for description.
 
-### Edit Database
+#### Edit Database
 To modify, _addTable.ipynb_ provides the sample structure for both adding new table and modifying existing table.
 
